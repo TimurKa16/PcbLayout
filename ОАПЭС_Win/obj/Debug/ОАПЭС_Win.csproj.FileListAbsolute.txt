@@ -1,0 +1,25 @@
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\bin\Debug\ОАПЭС_Win.exe.config
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.csprojResolveAssemblyReference.cache
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Properties.Resources.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.csproj.GenerateResource.Cache
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\bin\Debug\ОАПЭС_Win.exe
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\bin\Debug\ОАПЭС_Win.pdb
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.exe
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.pdb
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Form3.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Form1.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Form2.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Form4.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\bin\Debug\ОАПЭС_Win.exe.config
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\bin\Debug\ОАПЭС_Win.exe
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\bin\Debug\ОАПЭС_Win.pdb
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.csprojAssemblyReference.cache
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Form3.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Form1.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Form2.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Form4.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.Properties.Resources.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.csproj.GenerateResource.cache
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.exe
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\ОАПЭС_Win\ОАПЭС_Win\obj\Debug\ОАПЭС_Win.pdb
